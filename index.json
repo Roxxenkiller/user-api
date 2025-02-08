@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1001,
+      "username": "John Doe",
+      "email": "john.doe@example.com",
+      "hashpass": "John$9999",
+      "phone": "3235364653"
+    },
+    {
+      "id": 1002,
+      "username": "Alice Green",
+      "email": "alice.green123@gmail.com",
+      "hashpass": "Alice$2025",
+      "phone": "3124532987"
+    },
+    {
+      "id": 1003,
+      "username": "Mark Smith",
+      "email": "mark.smith987@gmail.com",
+      "hashpass": "Mark$9876",
+      "phone": "3235364654"
+    },
+    {
+      "id": 1004,
+      "username": "Laura Brown",
+      "email": "laura.brown45@gmail.com",
+      "hashpass": "Laura$5678",
+      "phone": "3456753829"
+    },
+    {
+      "id": 1005,
+      "username": "James White",
+      "email": "james.white22@gmail.com",
+      "hashpass": "James$3456",
+      "phone": "3332209567"
+    },
+    {
+      "id": 1006,
+      "username": "Emily Clark",
+      "email": "emily.clark57@gmail.com",
+      "hashpass": "Emily$9087",
+      "phone": "3235364655"
+    },
+    {
+      "id": 1007,
+      "username": "David Johnson",
+      "email": "david.johnson34@gmail.com",
+      "hashpass": "David$6789",
+      "phone": "3235364656"
+    },
+    {
+      "id": 1008,
+      "username": "Sophia Mitchell",
+      "email": "sophia.mitchell20@gmail.com",
+      "hashpass": "Sophia$2023",
+      "phone": "3235364657"
+    },
+    {
+      "id": 1009,
+      "username": "Rachel Turner",
+      "email": "rachel.turner12@gmail.com",
+      "hashpass": "Rachel$1122",
+      "phone": "3235364658"
+    },
+    {
+      "id": 1010,
+      "username": "Michael King",
+      "email": "michael.king88@gmail.com",
+      "hashpass": "Michael$4567",
+      "phone": "3235364659"
+    },
+    {
+      "id": 1011,
+      "username": "Olivia Lewis",
+      "email": "olivia.lewis31@gmail.com",
+      "hashpass": "Olivia$7777",
+      "phone": "3235364660"
+    },
+    {
+      "id": 1012,
+      "username": "Chris Adams",
+      "email": "chris.adams99@gmail.com",
+      "hashpass": "Chris$3344",
+      "phone": "3235364661"
+    },
+    {
+      "id": 1013,
+      "username": "Benjamin Oliver",
+      "email": "benjamin.oliver76@gmail.com",
+      "hashpass": "Ben$5678",
+      "phone": "3235364662"
+    },
+    {
+      "id": 1014,
+      "username": "Chloe Harris",
+      "email": "chloe.harris45@gmail.com",
+      "hashpass": "Chloe$8765",
+      "phone": "3235364663"
+    },
+    {
+      "id": 1015,
+      "username": "Grace Mitchell",
+      "email": "grace.mitchell30@gmail.com",
+      "hashpass": "Grace$4321",
+      "phone": "3235364664"
+    },
+    {
+      "id": 1016,
+      "username": "Jack Hill",
+      "email": "jack.hill44@gmail.com",
+      "hashpass": "Jack$4321",
+      "phone": "3235364665"
+    },
+    {
+      "id": 1017,
+      "username": "Lily Davis",
+      "email": "lily.davis90@gmail.com",
+      "hashpass": "Lily$1234",
+      "phone": "3235364666"
+    },
+    {
+      "id": 1018,
+      "username": "Henry Louis",
+      "email": "henry.louis23@gmail.com",
+      "hashpass": "Henry$2345",
+      "phone": "3235364667"
+    },
+    {
+      "id": 1019,
+      "username": "Isabella Parker",
+      "email": "isabella.parker88@gmail.com",
+      "hashpass": "Isabella$9087",
+      "phone": "3235364668"
+    },
+    {
+      "id": 1020,
+      "username": "Samuel David",
+      "email": "samuel.david12@gmail.com",
+      "hashpass": "Samuel$6543",
+      "phone": "3235364669"
+    }
+  ]
+  
